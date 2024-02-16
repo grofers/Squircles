@@ -58,4 +58,4 @@ Available options for corners:
 * No corners `noCorners`
 * All corners `allCorners`
 
-If you have any feedbacks or suggestions, feel free to contact us as `ios@grofers.com`
+If you have any feedback or suggestions, please raise an issue or pull request.
