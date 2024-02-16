@@ -2,7 +2,7 @@
 
 ## Integration
 
-To integrate ZSquircles into your app, follow these steps:
+To integrate Squircles into your app, follow these steps:
 
 1. Import `ZSquirclesView` folder into your project.
 2. For any view you wish to support a squircle shape, inherit it from `ZSquircleView`. ZSquircleView is a subclass of UIView, providing all the functionalities of a standard UIView.
@@ -58,4 +58,4 @@ Available options for corners:
 * No corners `noCorners`
 * All corners `allCorners`
 
-If you have any feedback or suggestions, please raise an issue or pull request.
+If you have any feedback or suggestions, please create an issue or raise a pull request.
